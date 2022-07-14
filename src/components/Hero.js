@@ -34,7 +34,7 @@ const Wrapper = styled.div`
   no-repeat center center;
  background-size: cover; */
  height: 100%;
- background-color: orange;
+ background-color: purple;
  .d1 {
   background-color: red;
   /* background-color: var(--clr-primary-1); */
